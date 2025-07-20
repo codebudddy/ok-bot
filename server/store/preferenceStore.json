@@ -1,0 +1,28 @@
+{
+  "user_001": {
+    "id": "user_001",
+    "preferredCoins": ["BTC", "ETH"],
+    "preferredRisk": "medium",
+    "notificationSettings": {
+      "email": false,
+      "sms": false,
+      "push": true
+    },
+    "tradeTypes": ["scalp", "swing"],
+    "riskToRewardRange": [1.5, 3.0],
+    "confidenceThreshold": 0.7
+  },
+  "user_002": {
+    "id": "user_002",
+    "preferredCoins": ["SOL"],
+    "preferredRisk": "high",
+    "notificationSettings": {
+      "email": true,
+      "sms": false,
+      "push": false
+    },
+    "tradeTypes": ["swing"],
+    "riskToRewardRange": [2.0, 5.0],
+    "confidenceThreshold": 0.85
+  }
+}
