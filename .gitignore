@@ -8,3 +8,7 @@ frontend/.env
 # Optional: ignore logs and coverage
 *.log
 coverage/
+
+
+#Ignore .gitignore
+.gitignore
