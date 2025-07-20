@@ -1,1 +1,1 @@
-// README.md placeholder
+1. The Okay bot is a next generation crypto trading bot with unmatched level of accuracy which implements some next level fundamental and technical analysis to predict select highly volatile market instruments, recommend them to a user and actually help them place the trade in their connected trading platforms or trading exchanges.
